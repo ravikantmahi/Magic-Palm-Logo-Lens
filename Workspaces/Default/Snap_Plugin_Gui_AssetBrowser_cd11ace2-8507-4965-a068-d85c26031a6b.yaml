@@ -1,0 +1,47 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 41
+    values:
+      - Easy Lens
+      - Easy Lens/Generated Assets
+      - Easy Lens/Generated Assets/3D_Nielit_Logo_Plane.glb
+      - Easy Lens/Generated Assets/3D_Nielit_Logo_Plane.glb/.hidden
+      - Easy Lens/Generated Assets/3D_Nielit_Logo_Plane.glb/.hidden/Material_0
+      - Easy Lens/Generated Assets/3D_Nielit_Logo_Plane.glb/3D_Nielit_Logo_Plane
+      - Easy Lens/Generated Assets/3D_Nielit_Logo_Plane.glb/Materials
+      - Easy Lens/Generated Assets/3D_Nielit_Logo_Plane.glb/Materials/Material_0
+      - Easy Lens/Generated Assets/3D_Nielit_Logo_Plane.glb/Meshes
+      - Easy Lens/Generated Assets/3D_Nielit_Logo_Plane.glb/Meshes/geometry_0
+      - Easy Lens/Generated Assets/3D_Nielit_Logo_Plane.glb/Textures
+      - Easy Lens/Generated Assets/3D_Nielit_Logo_Plane.glb/Textures/Image_0
+      - Easy Lens/Generated Assets/Black_Rectangular_Eyeglasses.lspkg
+      - Easy Lens/Generated Assets/Glow_Burst_Blue_White.png
+      - Easy Lens/Generated Assets/Sparkle_Particle_Blue_White.png
+      - Easy Lens/Generated Assets/Stylish_Black_Optical_Eyeglasses-1.lspkg
+      - Easy Lens/Generated Assets/Techy_Summon_Sound_Effect.mp3
+      - Easy Lens/Generated Assets/Ultra-Stylish_Futuristic_Black_Shield_Glasses.lspkg
+      - Easy Lens/Lens Components
+      - Easy Lens/Lens Components/3D Lens Frame_5.17.lsc
+      - Easy Lens/Lens Components/CanvasAPI_5.14.lsc
+      - Easy Lens/Lens Components/Hand_Tracking.lsc
+      - Easy Lens/Lens Components/Screen Sticker_5.11.lsc
+      - Easy Lens/Lens Components/SnapflixGlasses_5.12.0.lsc
+      - Easy Lens/Lens Components/Sound_5.17.lsc
+      - Easy Lens/Lens Components/SpriteManager_5.14.lsc
+      - Easy Lens/Lens Components/SpriteStore_5.14.lsc
+      - Easy Lens/LensController 10.js
+      - Easy Lens/LensController 11.js
+      - Easy Lens/LensController 2.js
+      - Easy Lens/LensController 3.js
+      - Easy Lens/LensController 4.js
+      - Easy Lens/LensController 5.js
+      - Easy Lens/LensController 6.js
+      - Easy Lens/LensController 7.js
+      - Easy Lens/LensController 8.js
+      - Easy Lens/LensController 9.js
+      - Easy Lens/LensController.js
+      - Easy Lens/User Assets
+      - Easy Lens/User Assets/NIELIT-Preview 2.png
+      - Easy Lens/User Assets/NIELIT-Preview.png
+  options: 4

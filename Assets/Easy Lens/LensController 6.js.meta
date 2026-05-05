@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/685877ed-4968-42e7-b295-b34fc419adf4>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 122382f7-7c19-40f6-bbb6-c3f6d78d1308
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 122382f7-7c19-40f6-bbb6-c3f6d78d1308
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    USE_EASY_LENS: ""
+  AssetDataMap:
+    JavaScriptAsset: !<own> a713a105-6bba-4826-bd7a-d75e34839d1c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/a713a105-6bba-4826-bd7a-d75e34839d1c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 24b7eeb6-fad0-43e4-83f3-03c3f9c6842e
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    handTracking: false
+    nielitLogoSticker: false
+    palmFxCanvas: false
+    spriteStore: false
+    summonSfx: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - palmFxCanvas: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      handTracking: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      summonSfx: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      nielitLogoSticker: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      spriteStore: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

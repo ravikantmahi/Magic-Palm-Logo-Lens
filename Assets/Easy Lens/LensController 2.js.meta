@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/0a04cf77-2a96-4565-bab1-9e05923a10c5>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 6a236325-4a83-4514-a04b-5e39047e4b70
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 6a236325-4a83-4514-a04b-5e39047e4b70
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    USE_EASY_LENS: ""
+  AssetDataMap:
+    JavaScriptAsset: !<own> c1b5f51e-e492-45ba-8595-8cd4153232b6
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/c1b5f51e-e492-45ba-8595-8cd4153232b6>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: d489109c-9253-4bcd-8841-3b4599101168
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    handTracking: false
+    logo3DFrame: false
+    palmFxCanvas: false
+    spriteStore: false
+    summonSfx: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - palmFxCanvas: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      handTracking: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      summonSfx: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      spriteStore: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      logo3DFrame: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

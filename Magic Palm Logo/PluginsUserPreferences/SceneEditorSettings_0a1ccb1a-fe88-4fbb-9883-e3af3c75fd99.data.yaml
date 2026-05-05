@@ -1,0 +1,5 @@
+data:
+  highlightType: Snap.Plugin.Gui.SceneEditor.ColorHighlight
+  showGrid: true
+  cameraClip: 3
+  scriptsEnabled: false
